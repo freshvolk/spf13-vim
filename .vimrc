@@ -84,7 +84,6 @@
     " General Programming
         if count(g:spf13_bundle_groups, 'programming')
             " Pick one of the checksyntax, jslint, or syntastic
-            Bundle 'scrooloose/syntastic'
             Bundle 'garbas/vim-snipmate'
             Bundle 'spf13/snipmate-snippets'
             " Source support_function.vim to support snipmate-snippets.
